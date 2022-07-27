@@ -1,0 +1,41 @@
+.forma{
+    margin-left: 500px;
+}
+.lentele a{
+    color:darkred;
+    background-color: #fff;
+    padding: 5px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.lentele a:hover{
+    background-color: darkred;
+    color:#fff;
+}
+.navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+.navbar ul li{
+    float: left;
+}
+.navbar a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+.navbar li a:hover{
+    background-color: #222;
+    border-radius: 10px;
+}
+.split li a{
+    float: right;
+}
+.paieska{
+    margin-left: 1550px;
+}
